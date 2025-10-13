@@ -59,6 +59,7 @@
       .wrapper-baner {
           display: inline-block;
           max-width: 1000px;
+          vertical-align: 30px
       }
 
       .welcome {
