@@ -21,9 +21,9 @@
 
       .logo {
           display: inline-block;
-          color: #46A358;
           margin-right: 229px;
-          ;
+          font-weight: 34.3px;
+          width: 150px;
       }
 
       .menu {
@@ -34,17 +34,31 @@
       .nav-link+.nav-link {
           margin-left: 50px;
           text-decoration: none;
+          color: black;
       }
 
 
 
+
+
+
       .login-btn {
+          display: inline-block;
+          margin-left: auto;
           background: #46A358;
           color: #FFFFFF;
           border: 1px solid;
-          padding: 8px 18px;
+          padding: 6px 16px;
           border-radius: 6px;
-          margin-left: 255px;
+          margin-left: 150px;
+
+
+      }
+
+      .separator-line {
+          border-top: 1px solid;
+          margin: 4px;
+          width: 100%;
       }
 
       .main-baner {
@@ -59,7 +73,8 @@
       .wrapper-baner {
           display: inline-block;
           max-width: 1000px;
-          vertical-align: 30px
+          vertical-align: 30px;
+          margin-left: 260px;
       }
 
       .welcome {
