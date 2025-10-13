@@ -54,8 +54,10 @@
           margin-left: 15px;
           margin-right: 15px;
           background-color: #F5F5F580;
+      }
 
-
+      .wrapper-baner {
+          display: inline-block;
       }
 
       .welcome {
@@ -70,7 +72,7 @@
       .wrapper-baner h1 {
           font-size: 70px;
           line-height: 70px;
-          display: inline-block;
+
       }
 
       .wrapper-baner h1 span {
